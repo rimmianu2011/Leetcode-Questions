@@ -9,7 +9,7 @@ class Solution(object):
         stack = []
         for i in range(len(s)):
             if len(s) % 2 != 0:
-                return False
+                output = False
                 break
 
             if s[i] == '(' or s[i] == '[' or s[i] == '{':
@@ -17,7 +17,7 @@ class Solution(object):
 
             elif s[i] == ')' or s[i] == ']' or s[i] == '}':
                 if not stack:
-                    return False
+                    output = False
                     break
 
                 popped_val = stack.pop()
@@ -26,9 +26,9 @@ class Solution(object):
                     output = True
         
                 else:
-                    return False
+                    output = False
                     break
         if stack:
             output = False
-
+            
         return output
