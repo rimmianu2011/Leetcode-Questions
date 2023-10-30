@@ -15,7 +15,7 @@ class Solution(object):
             if s[i] == '(' or s[i] == '[' or s[i] == '{':
                 stack.append(s[i])
 
-            if s[i] == ')' or s[i] == ']' or s[i] == '}':
+            elif s[i] == ')' or s[i] == ']' or s[i] == '}':
                 if not stack:
                     output = False
                     break
