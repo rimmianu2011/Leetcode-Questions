@@ -12,10 +12,10 @@ class Solution(object):
                 output = False
                 break
 
-            elif s[i] == '(' or s[i] == '[' or s[i] == '{':
+            if s[i] == '(' or s[i] == '[' or s[i] == '{':
                 stack.append(s[i])
 
-            elif s[i] == ')' or s[i] == ']' or s[i] == '}':
+            if s[i] == ')' or s[i] == ']' or s[i] == '}':
                 if not stack:
                     output = False
                     break
