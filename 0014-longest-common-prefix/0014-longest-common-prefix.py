@@ -7,17 +7,14 @@ class Solution(object):
 
         strs.sort()
 
-        first_word = strs[0]
-        last_word = strs[-1]
-
         common_letters = []
 
         if len(strs) == 0:
             return ""
 
         for i in range(len(strs[0])):            
-            if first_word[i] == last_word[i]:
-                common_letters.append(first_word[i])
+            if strs[0][i] == strs[-1][i]:
+                common_letters.append(strs[0][i])
             else:
                 break
 
