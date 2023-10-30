@@ -18,5 +18,4 @@ class Solution(object):
             else:
                 break
 
-        common_letters = "".join(common_letters)
-        return common_letters
+        return "".join(common_letters)
