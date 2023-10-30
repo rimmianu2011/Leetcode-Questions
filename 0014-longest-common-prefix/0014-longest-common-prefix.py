@@ -7,8 +7,6 @@ class Solution(object):
 
         strs.sort()
 
-        print(strs)
-
         first_word = strs[0]
         last_word = strs[-1]
 
