@@ -6,7 +6,6 @@ class Solution(object):
         """
 
         strs.sort()
-
         common_letters = []
 
         if len(strs) == 0:
@@ -18,4 +17,5 @@ class Solution(object):
             else:
                 break
 
-        return "".join(common_letters)
+        common_letters = "".join(common_letters)
+        return common_letters
