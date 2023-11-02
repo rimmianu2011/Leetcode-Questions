@@ -12,12 +12,14 @@ class Solution(object):
 
             if nums[i] == target:
                 output = i
-                break
+                # break
+                return output
             elif target not in nums and target > nums[i]:
                 output = i + 1
             elif target not in nums and target < nums[i]:
                 output = i 
-                break
+                # break
+                return output
 
         return output
 
