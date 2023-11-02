@@ -7,8 +7,6 @@ class Solution(object):
         """
 
         if needle not in haystack:
-            
-            print(needle)
             return -1
         else:
             return haystack.index(needle)
