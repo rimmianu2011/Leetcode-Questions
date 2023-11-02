@@ -10,6 +10,6 @@ class Solution(object):
 
         lastWord = list_words[length-1]
 
-        outputLength = len(lastWord)
+        output = len(lastWord)
 
-        return outputLength
+        return output
