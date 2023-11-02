@@ -6,18 +6,20 @@ class Solution(object):
         :rtype: int
         """
 
-        output = 0
+        left = 0
+        right = len(nums) - 1
 
-        for i in range(len(nums)):
+        while left <= right:
 
-            if nums[i] == target:
-                return i
-            elif target not in nums and target > nums[i]:
-                output = i + 1
-            elif target not in nums and target < nums[i]:
-                return i
+            mid = (left+right) // 2
 
-        return output
+            if nums[mid] == target:
+                return mid
 
+            elif nums[mid] < target:
+                left = mid + 1
 
-        
+            else:
+                right = mid - 1
+
+        return left
