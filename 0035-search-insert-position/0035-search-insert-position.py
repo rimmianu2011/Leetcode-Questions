@@ -11,15 +11,11 @@ class Solution(object):
         for i in range(len(nums)):
 
             if nums[i] == target:
-                output = i
-                # break
-                return output
+                return i
             elif target not in nums and target > nums[i]:
                 output = i + 1
             elif target not in nums and target < nums[i]:
-                output = i 
-                # break
-                return output
+                return i
 
         return output
 
