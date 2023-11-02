@@ -9,7 +9,7 @@ class Solution(object):
 
         while length >= 0:
 
-            if digits[length] >= 9:
+            if digits[length] == 9:
                 digits[length] = 0
                 length = length - 1
                 
