@@ -8,8 +8,8 @@ class Solution:
                 
                 # if len(stack) >= 2:
                     num2 = stack.pop()
-                    num1 = stack.pop()
-                    out = int(eval(num1 + num + num2))
+                    # num1 = stack.pop()
+                    out = int(eval(stack.pop() + num + num2))
                     # print(out)
                     stack.append(str(out))
                 
