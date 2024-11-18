@@ -8,6 +8,7 @@
 | [0036-valid-sudoku](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0271-encode-and-decode-strings) |
@@ -77,5 +78,10 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0155-min-stack) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
