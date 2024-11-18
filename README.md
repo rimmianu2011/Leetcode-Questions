@@ -59,6 +59,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0271-encode-and-decode-strings) |
 ## Prefix Sum
 |  |
@@ -76,4 +77,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
