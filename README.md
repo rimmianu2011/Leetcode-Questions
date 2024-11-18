@@ -32,6 +32,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0271-encode-and-decode-strings) |
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
