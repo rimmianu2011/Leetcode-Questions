@@ -1,34 +1,24 @@
-class Solution(object):
-    def isValid(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
-
-        output = False
-        stack = []
-        for i in range(len(s)):
-            if len(s) % 2 != 0:
-                output = False
-                break
-
-            if s[i] == '(' or s[i] == '[' or s[i] == '{':
-                stack.append(s[i])
-
-            elif s[i] == ')' or s[i] == ']' or s[i] == '}':
-                if not stack:
-                    output = False
-                    break
-
-                popped_val = stack.pop()
-
-                if (popped_val == '(' and s[i] == ')') or (popped_val == '[' and s[i] == ']') or (popped_val == '{' and s[i] == '}'):
-                    output = True
+class Solution:
+    def isValid(self, s: str) -> bool:
         
+        stack_s = []
+        s = list(s)
+
+        close_open_paran = {")":"(", "}":"{", "]":"["}
+
+        for braq in s:
+
+            if braq in close_open_paran:
+                
+                if stack_s and stack_s[-1] == close_open_paran[braq]:
+                    stack_s.pop()
+
                 else:
-                    output = False
-                    break
-        if stack:
-            output = False
+                    return False
+
+            else:
+                stack_s.append(braq)
+        
+
+        return True if not stack_s else False
             
-        return output
