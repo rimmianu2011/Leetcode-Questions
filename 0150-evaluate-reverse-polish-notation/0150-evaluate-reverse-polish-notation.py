@@ -16,6 +16,4 @@ class Solution:
             else:
                 stack.append(num)
 
-
-        result = stack.pop()
-        return int(result)
+        return int(stack.pop())
