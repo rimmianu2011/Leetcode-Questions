@@ -10,6 +10,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0271-encode-and-decode-strings) |
@@ -111,4 +112,9 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
