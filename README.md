@@ -40,6 +40,7 @@
 | [0020-valid-parentheses](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0271-encode-and-decode-strings) |
 ## Divide and Conquer
@@ -106,4 +107,8 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0883-car-fleet) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
