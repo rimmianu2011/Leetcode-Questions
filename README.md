@@ -40,6 +40,7 @@
 | [0049-group-anagrams](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | [0042-trapping-rain-water](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
