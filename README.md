@@ -41,6 +41,7 @@
 | [0049-group-anagrams](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0242-valid-anagram) |
@@ -96,6 +97,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0271-encode-and-decode-strings) |
 | [1023-time-based-key-value-store](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/1023-time-based-key-value-store) |
@@ -196,4 +198,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0136-single-number) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/rimmianu2011/Leetcode-Questions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
